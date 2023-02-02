@@ -80,6 +80,7 @@ $ python main.py
 ## Related project
 
 [Frontend Application](https://github.com/LewisDuda/stock)
+
 [API Application](https://github.com/LewisDuda/stock-api-server)
 
 **Clone Project**
